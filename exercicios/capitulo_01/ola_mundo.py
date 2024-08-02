@@ -1,0 +1,1 @@
+print("ola mundo") #imprime na tela a frase entre aspas
